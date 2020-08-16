@@ -11,5 +11,4 @@
   This program was written for my COMP-1410 Intro to Algorithms and Programming II class for our final assignment. 
  
 # Acknowledgments
-  Professor - Dr. Saeed Samet
-  Assisted in Testing - Devon Clark
+  Professor - Dr. Saeed Samet, Assisted in Testing - Devon Clark
